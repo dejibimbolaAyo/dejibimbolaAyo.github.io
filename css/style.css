@@ -236,9 +236,8 @@ width:45%;
 .view_project {
 	color: #010101;
 	font-family: "Lato";
-	font-size: 1.2em;
-	text-align: center;
-	margin: 1.1em 0 ;
+	font-size: 0.9em;
+	margin: 1.1em 0.5em ;
 }
 
 .view_project:hover
@@ -315,9 +314,10 @@ width:45%;
 }
 .about-info p {
   text-align: center;
+  font-family: 'Lato', sans-serif;
   font-size: 14px;
   color: #fff;
-  width: 71%;
+  width: 90%;
   margin: 0 auto;
   line-height: 1.8em;
 }
